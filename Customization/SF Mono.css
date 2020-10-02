@@ -1,0 +1,168 @@
+code, div[class*='code'], tt {
+	font-family: SF Mono, Monospace !important;
+}
+
+[style*="Monospace"] {
+	font-family: SF Mono !important;
+}
+
+[style*="sans-serif"] {
+	font-family: SF Compact Text !important;
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 400;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 400;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 500;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 500;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 600;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 600;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 700;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
+}
+
+@font-face {
+	font-family: 'Consolas';
+	font-weight: 700;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 400;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
+
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 400;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 500;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 500;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 600;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 600;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 700;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
+}
+
+@font-face {
+	font-family: 'Menlo';
+	font-weight: 700;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 400;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 400;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 500;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 500;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 600;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 600;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 700;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
+}
+
+@font-face {
+	font-family: 'Monaco';
+	font-weight: 700;
+	font-style: italic;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
+}
