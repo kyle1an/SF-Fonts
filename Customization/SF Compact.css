@@ -1,71 +1,82 @@
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
-	font-family: 'acumin-pro';
+	font-family: 'SF Compact Text';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
 @font-face {
-	font-family: "acumin-pro";
+	font-family: "SF Compact Text";
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -73,12 +84,14 @@
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -86,12 +99,14 @@
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -99,12 +114,14 @@
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -112,12 +129,14 @@
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -125,12 +144,14 @@
 	font-family: 'AlibabaPuHuiTi';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Arial';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -138,12 +159,14 @@
 	font-family: 'Arial';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Arial';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -151,12 +174,14 @@
 	font-family: 'Arial';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Arial';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -164,12 +189,14 @@
 	font-family: 'Arial';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Arial';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -177,12 +204,14 @@
 	font-family: 'Arial';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Arial';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -190,24 +219,43 @@
 	font-family: "Arial";
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
+}
+
+@font-face {
+	font-family: 'Arial Unicode MS';
+	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
+}
+
+@font-face {
+	font-family: 'Arial Unicode MS';
+	font-weight: 400;
+	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Crisp Noto Sans Regular';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: 'dosis';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: 'font-regular';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -215,12 +263,14 @@
 	font-family: 'font-regular';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'font-regular';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -228,12 +278,14 @@
 	font-family: 'font-regular';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'font-regular';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -241,12 +293,14 @@
 	font-family: 'font-regular';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'font-regular';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -254,12 +308,14 @@
 	font-family: 'font-regular';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'font-regular';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -267,12 +323,14 @@
 	font-family: 'font-regular';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -280,12 +338,14 @@
 	font-family: 'Helvetica';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -293,12 +353,14 @@
 	font-family: 'Helvetica';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -306,12 +368,14 @@
 	font-family: 'Helvetica';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -319,12 +383,14 @@
 	font-family: 'Helvetica';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -332,6 +398,7 @@
 	font-family: 'Helvetica';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
@@ -339,6 +406,7 @@
 @font-face {
 	font-family: 'Helvetica Neue';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -346,12 +414,14 @@
 	font-family: 'Helvetica Neue';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica Neue';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -359,12 +429,14 @@
 	font-family: 'Helvetica Neue';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica Neue';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -372,12 +444,14 @@
 	font-family: 'Helvetica Neue';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica Neue';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -385,12 +459,14 @@
 	font-family: 'Helvetica Neue';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Helvetica Neue';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -398,12 +474,14 @@
 	font-family: 'Helvetica Neue';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'HelveticaNeue';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -411,12 +489,14 @@
 	font-family: 'HelveticaNeue';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'HelveticaNeue';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -424,12 +504,14 @@
 	font-family: 'HelveticaNeue';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'HelveticaNeue';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -437,12 +519,14 @@
 	font-family: 'HelveticaNeue';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'HelveticaNeue';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -450,12 +534,14 @@
 	font-family: 'HelveticaNeue';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'HelveticaNeue';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -463,12 +549,14 @@
 	font-family: 'HelveticaNeue';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'HelveticaNeue-Medium';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -476,6 +564,7 @@
 	font-family: 'HelveticaNeue-Medium';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
@@ -483,6 +572,7 @@
 @font-face {
 	font-family: 'HelveticaNeue-Bold';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -490,12 +580,14 @@
 	font-family: 'HelveticaNeue-Bold';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Hiragino Sans GB';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -503,12 +595,14 @@
 	font-family: 'Hiragino Sans GB';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Hiragino Sans GB';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -516,12 +610,14 @@
 	font-family: 'Hiragino Sans GB';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Hiragino Sans GB';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -529,12 +625,14 @@
 	font-family: 'Hiragino Sans GB';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Hiragino Sans GB';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -542,12 +640,14 @@
 	font-family: 'Hiragino Sans GB';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Hiragino Sans GB';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -555,12 +655,14 @@
 	font-family: 'Hiragino Sans GB';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Lato';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -568,12 +670,14 @@
 	font-family: 'Lato';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Lato';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -581,12 +685,14 @@
 	font-family: 'Lato';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Lato';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -594,12 +700,14 @@
 	font-family: 'Lato';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Lato';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -607,12 +715,14 @@
 	font-family: 'Lato';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'LatoWeb';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -620,12 +730,14 @@
 	font-family: 'LatoWeb';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'LatoWeb';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -633,12 +745,14 @@
 	font-family: 'LatoWeb';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'LatoWeb';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -646,12 +760,14 @@
 	font-family: 'LatoWeb';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'LatoWeb';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -659,12 +775,14 @@
 	font-family: 'LatoWeb';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Lucida Grande';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -672,12 +790,14 @@
 	font-family: 'Lucida Grande';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Lucida Grande';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -685,12 +805,14 @@
 	font-family: 'Lucida Grande';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'lucida Grande';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -698,12 +820,14 @@
 	font-family: 'lucida Grande';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'lucida Grande';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -711,14 +835,14 @@
 	font-family: 'lucida Grande';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
-
-
 
 @font-face {
 	font-family: 'Microsoft Yahei';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -726,12 +850,14 @@
 	font-family: 'Microsoft Yahei';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Microsoft Yahei';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -739,38 +865,14 @@
 	font-family: 'Microsoft Yahei';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Microsoft Yahei';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
-}
-
-@font-face {
-	font-family: 'Microsoft Yahei';
-	font-weight: 500;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
-}
-
-@font-face {
-	font-family: 'Microsoft Yahei';
-	font-weight: 600;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
-}
-
-@font-face {
-	font-family: 'Microsoft Yahei';
-	font-weight: 600;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
-}
-
-@font-face {
-	font-family: 'Microsoft Yahei';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -778,18 +880,21 @@
 	font-family: 'Microsoft Yahei';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: '微軟正黑體';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: '微软雅黑';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -797,12 +902,14 @@
 	font-family: '微软雅黑';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: '微软雅黑';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -810,38 +917,14 @@
 	font-family: '微软雅黑';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: '微软雅黑';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
-}
-
-@font-face {
-	font-family: '微软雅黑';
-	font-weight: 500;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
-}
-
-@font-face {
-	font-family: '微软雅黑';
-	font-weight: 600;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
-}
-
-@font-face {
-	font-family: '微软雅黑';
-	font-weight: 600;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
-}
-
-@font-face {
-	font-family: '微软雅黑';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -849,12 +932,14 @@
 	font-family: '微软雅黑';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'muli';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -862,12 +947,14 @@
 	font-family: 'muli';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'muli';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -875,51 +962,14 @@
 	font-family: 'muli';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
-}
-
-@font-face {
-	font-family: 'muli';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
-}
-
-@font-face {
-	font-family: 'muli';
-	font-weight: 500;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
-}
-
-@font-face {
-	font-family: 'muli';
-	font-weight: 600;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
-}
-
-@font-face {
-	font-family: 'muli';
-	font-weight: 600;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
-}
-
-@font-face {
-	font-family: 'muli';
-	font-weight: 700;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
-}
-
-@font-face {
-	font-family: 'muli';
-	font-weight: 700;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Noto Sans';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -927,12 +977,14 @@
 	font-family: 'Noto Sans';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Noto Sans';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -940,12 +992,14 @@
 	font-family: 'Noto Sans';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Noto Sans';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -953,12 +1007,14 @@
 	font-family: 'Noto Sans';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Noto Sans';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -966,12 +1022,14 @@
 	font-family: 'Noto Sans';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Noto Sans';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -979,12 +1037,14 @@
 	font-family: 'Noto Sans';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Open Sans';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -992,12 +1052,14 @@
 	font-family: 'Open Sans';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Open Sans';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1005,12 +1067,14 @@
 	font-family: 'Open Sans';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Open Sans';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -1018,12 +1082,14 @@
 	font-family: 'Open Sans';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Open Sans';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -1031,12 +1097,14 @@
 	font-family: 'Open Sans';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Open Sans';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -1044,101 +1112,42 @@
 	font-family: 'Open Sans';
 	font-weight: 700;
 	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 300;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 300;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 400;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 400;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
-}
-
-@font-face {
-	font-family: 'Open Sans';
-	font-weight: 500;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 600;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 600;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 700;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
-}
-
-@font-face {
-	font-family: 'OpenSans';
-	font-weight: 700;
-	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: '.PingFang SC';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: 'PingFangSC-Regular';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: 'PingFangSC-Medium';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
 @font-face {
 	font-family: 'PingFangSC-Semibold';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
 @font-face {
 	font-family: 'PingFang SC';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -1146,12 +1155,14 @@
 	font-family: 'PingFang SC';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'PingFang SC';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1159,12 +1170,14 @@
 	font-family: 'PingFang SC';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'PingFang SC';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -1172,12 +1185,14 @@
 	font-family: 'PingFang SC';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'PingFang SC';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -1185,12 +1200,14 @@
 	font-family: 'PingFang SC';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'PingFang SC';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -1198,12 +1215,14 @@
 	font-family: 'PingFang SC';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'pt sans';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -1211,12 +1230,14 @@
 	font-family: 'pt sans';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'pt sans';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1224,51 +1245,44 @@
 	font-family: 'pt sans';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
-/*@font-face {*/
-/*	font-family: 'pt sans';*/
-/*	font-weight: 500;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");*/
-/*}*/
+@font-face {
+	font-family: 'pt sans';
+	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
+}
 
-/*@font-face {*/
-/*	font-family: 'pt sans';*/
-/*	font-weight: 500;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");*/
-/*}*/
+@font-face {
+	font-family: 'pt sans';
+	font-weight: 600;
+	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
+}
 
-/*@font-face {*/
-/*	font-family: 'pt sans';*/
-/*	font-weight: 600;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");*/
-/*}*/
+@font-face {
+	font-family: 'pt sans';
+	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
+}
 
-/*@font-face {*/
-/*	font-family: 'pt sans';*/
-/*	font-weight: 600;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'pt sans';*/
-/*	font-weight: 700;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'pt sans';*/
-/*	font-weight: 700;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");*/
-/*}*/
+@font-face {
+	font-family: 'pt sans';
+	font-weight: 700;
+	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
+}
 
 @font-face {
 	font-family: 'Roboto';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -1276,12 +1290,14 @@
 	font-family: 'Roboto';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Roboto';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1289,12 +1305,14 @@
 	font-family: 'Roboto';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Roboto';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -1302,12 +1320,14 @@
 	font-family: 'Roboto';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Roboto';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -1315,12 +1335,14 @@
 	font-family: 'Roboto';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Roboto';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -1328,24 +1350,28 @@
 	font-family: 'Roboto';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Segoe UI Web (West European)';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: 'Segoe UI Web (West European)';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
 @font-face {
 	font-family: 'SegoeUI';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -1353,12 +1379,14 @@
 	font-family: 'SegoeUI';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'SegoeUI';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1366,12 +1394,14 @@
 	font-family: 'SegoeUI';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'SegoeUI';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -1379,12 +1409,14 @@
 	font-family: 'SegoeUI';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'SegoeUI';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -1393,12 +1425,14 @@
 	font-family: 'SegoeUI';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'SegoeUI';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -1406,37 +1440,14 @@
 	font-family: 'SegoeUI';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
-/*@font-face {*/
-/*	font-family: 'AtlasGrotesk';*/
-/*	font-weight: 400;*/
-/*	src: url("https://raw.githubusercontent.com/kyle1an/SFonts/master/Fonts/SF-Compact-Text-Regular.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'SharpGrotesk';*/
-/*	font-weight: 400;*/
-/*	src: url("https://raw.githubusercontent.com/kyle1an/SFonts/master/Fonts/SF-Compact-Text-Regular.otf");*/
-/*}*/
-
-@font-face {
-	font-family: 'Tahoma';
-	font-weight: 300;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
-}
-
-@font-face {
-	font-family: 'Tahoma';
-	font-weight: 300;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
-}
-
 @font-face {
 	font-family: 'Tahoma';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1444,38 +1455,14 @@
 	font-family: 'Tahoma';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Tahoma';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
-}
-
-@font-face {
-	font-family: 'Tahoma';
-	font-weight: 500;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
-}
-
-@font-face {
-	font-family: 'Tahoma';
-	font-weight: 600;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
-}
-
-@font-face {
-	font-family: 'Tahoma';
-	font-weight: 600;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
-}
-
-@font-face {
-	font-family: 'Tahoma';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -1483,31 +1470,21 @@
 	font-family: 'Tahoma';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Times New Roman';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
 @font-face {
 	font-family: 'Trebuchet MS';
-	font-weight: 300;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
-}
-
-@font-face {
-	font-family: 'Trebuchet MS';
-	font-weight: 300;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
-}
-
-@font-face {
-	font-family: 'Trebuchet MS';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1515,51 +1492,29 @@
 	font-family: 'Trebuchet MS';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Trebuchet MS';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
+	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
 @font-face {
 	font-family: 'Trebuchet MS';
-	font-weight: 500;
+	font-weight: 700;
 	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
-
-/*@font-face {*/
-/*	font-family: 'Trebuchet MS';*/
-/*	font-weight: 600;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'Trebuchet MS';*/
-/*	font-weight: 600;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'Trebuchet MS';*/
-/*	font-weight: 700;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'Trebuchet MS';*/
-/*	font-weight: 700;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");*/
-/*}*/
 
 @font-face {
 	font-family: 'Ubuntu Light';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -1567,12 +1522,14 @@
 	font-family: 'Ubuntu Light';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Ubuntu';
 	font-weight: 300;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
 }
 
@@ -1580,12 +1537,14 @@
 	font-family: 'Ubuntu';
 	font-weight: 300;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
 }
 
 @font-face {
 	font-family: 'Ubuntu';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1593,12 +1552,14 @@
 	font-family: 'Ubuntu';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Ubuntu';
 	font-weight: 500;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
 }
 
@@ -1606,12 +1567,14 @@
 	font-family: 'Ubuntu';
 	font-weight: 500;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Ubuntu';
 	font-weight: 600;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");
 }
 
@@ -1619,12 +1582,14 @@
 	font-family: 'Ubuntu';
 	font-weight: 600;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Ubuntu';
 	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
 
@@ -1632,25 +1597,14 @@
 	font-family: 'Ubuntu';
 	font-weight: 700;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Verdana';
-	font-weight: 300;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Light.otf");
-}
-
-@font-face {
-	font-family: 'Verdana';
-	font-weight: 300;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-LightItalic.otf");
-}
-
-@font-face {
-	font-family: 'Verdana';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
 
@@ -1658,50 +1612,28 @@
 	font-family: 'Verdana';
 	font-weight: 400;
 	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Verdana';
-	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Medium.otf");
+	font-weight: 700;
+	unicode-range: U+00-29, U+0040-0236;
+	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
 }
-
-@font-face {
-	font-family: 'Verdana';
-	font-weight: 500;
-	font-style: italic;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-MediumItalic.otf");
-}
-
-/*@font-face {*/
-/*	font-family: 'Verdana';*/
-/*	font-weight: 600;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Semibold.otf");*/
-/*}*/
-
-/*@font-face {*/
-/*	font-family: 'Verdana';*/
-/*	font-weight: 600;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-SemiboldItalic.otf");*/
-/*}*/
 
 @font-face {
 	font-family: 'Verdana';
 	font-weight: 700;
-	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Bold.otf");
+	font-style: italic;
+	unicode-range: U+00-29, U+0040-0236;
+    src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");
 }
-
-/*@font-face {*/
-/*	font-family: 'Verdana';*/
-/*	font-weight: 700;*/
-/*	font-style: italic;*/
-/*	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-BoldItalic.otf");*/
-/*}*/
 
 @font-face {
 	font-family: 'Whitney';
 	font-weight: 400;
+	unicode-range: U+00-29, U+0040-0236;
 	src: url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Compact-Text-Regular.otf");
 }
