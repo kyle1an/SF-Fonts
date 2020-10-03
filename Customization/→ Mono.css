@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'SF Mono';
 	font-weight: 400;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Regular"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
 }
 
@@ -9,14 +9,14 @@
 	font-family: 'SF Mono';
 	font-weight: 400;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono RegularItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'SF Mono';
 	font-weight: 500;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Medium"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
 }
 
@@ -24,14 +24,14 @@
 	font-family: 'SF Mono';
 	font-weight: 500;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono MediumItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'SF Mono';
 	font-weight: 600;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Semibold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
 }
 
@@ -39,14 +39,14 @@
 	font-family: 'SF Mono';
 	font-weight: 600;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono SemiboldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'SF Mono';
 	font-weight: 700;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Bold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
 }
 
@@ -54,14 +54,14 @@
 	font-family: 'SF Mono';
 	font-weight: 700;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono BoldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'SFMono-Regular';
 	font-weight: 400;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Regular"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
 }
 
@@ -69,14 +69,14 @@
 	font-family: 'SFMono-Regular';
 	font-weight: 400;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono RegularItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'SFMono-Regular';
 	font-weight: 500;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Medium"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
 }
 
@@ -84,14 +84,14 @@
 	font-family: 'SFMono-Regular';
 	font-weight: 500;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono MediumItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'SFMono-Regular';
 	font-weight: 600;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Semibold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
 }
 
@@ -99,14 +99,14 @@
 	font-family: 'SFMono-Regular';
 	font-weight: 600;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono SemiboldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'SFMono-Regular';
 	font-weight: 700;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Bold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
 }
 
@@ -114,14 +114,14 @@
 	font-family: 'SFMono-Regular';
 	font-weight: 700;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono BoldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Consolas';
 	font-weight: 400;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Regular"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
 }
 
@@ -129,14 +129,14 @@
 	font-family: 'Consolas';
 	font-weight: 400;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono RegularItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Consolas';
 	font-weight: 500;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Medium"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
 }
 
@@ -144,14 +144,14 @@
 	font-family: 'Consolas';
 	font-weight: 500;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono MediumItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Consolas';
 	font-weight: 600;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Semibold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
 }
 
@@ -159,14 +159,14 @@
 	font-family: 'Consolas';
 	font-weight: 600;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono SemiboldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Consolas';
 	font-weight: 700;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Bold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
 }
 
@@ -174,14 +174,14 @@
 	font-family: 'Consolas';
 	font-weight: 700;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono BoldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Menlo';
 	font-weight: 400;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Regular"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
 
 }
@@ -190,14 +190,14 @@
 	font-family: 'Menlo';
 	font-weight: 400;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono RegularItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Menlo';
 	font-weight: 500;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Medium"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
 }
 
@@ -205,14 +205,14 @@
 	font-family: 'Menlo';
 	font-weight: 500;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono MediumItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Menlo';
 	font-weight: 600;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Semibold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
 }
 
@@ -220,14 +220,14 @@
 	font-family: 'Menlo';
 	font-weight: 600;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono SemiboldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Menlo';
 	font-weight: 700;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Bold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
 }
 
@@ -235,14 +235,14 @@
 	font-family: 'Menlo';
 	font-weight: 700;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono BoldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Monaco';
 	font-weight: 400;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Regular"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Regular.otf");
 }
 
@@ -250,14 +250,14 @@
 	font-family: 'Monaco';
 	font-weight: 400;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono RegularItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-RegularItalic.otf");
 }
 
 @font-face {
 	font-family: 'Monaco';
 	font-weight: 500;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Medium"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Medium.otf");
 }
 
@@ -265,14 +265,14 @@
 	font-family: 'Monaco';
 	font-weight: 500;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono MediumItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-MediumItalic.otf");
 }
 
 @font-face {
 	font-family: 'Monaco';
 	font-weight: 600;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Semibold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Semibold.otf");
 }
 
@@ -280,14 +280,14 @@
 	font-family: 'Monaco';
 	font-weight: 600;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono SemiboldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-SemiboldItalic.otf");
 }
 
 @font-face {
 	font-family: 'Monaco';
 	font-weight: 700;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono Bold"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-Bold.otf");
 }
 
@@ -295,6 +295,6 @@
 	font-family: 'Monaco';
 	font-weight: 700;
 	font-style: italic;
-	unicode-range: U+0000-21FF;
+	unicode-range: U+00-2F, U+003A-26FF;
 	src: local("SF Mono BoldItalic"), url("https://cdn.jsdelivr.net/gh/kyle1an/SF-Fonts@master/Fonts/SF-Mono-BoldItalic.otf");
 }
