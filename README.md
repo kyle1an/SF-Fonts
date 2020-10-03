@@ -8,4 +8,4 @@ IT IS AGAINST APPLE'S POLICY TO USE SF FOR ANYTHING OTHER THAN iOS/tvOS/macOS/wa
 
 Using @font-face to replace specific fonts or characters (eg., 0, 4, 6, 9, l) for a better reading experience.
 
-![google.com preview](https://raw.githubusercontent.com/kyle1an/SF-Fonts/master/Customization/onGoogle.png)
+![google.com preview](https://raw.githubusercontent.com/kyle1an/SF-Fonts/master/Customization/googlepage.png)
